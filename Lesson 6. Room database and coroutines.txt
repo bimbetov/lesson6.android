@@ -1,0 +1,11 @@
+Lesson 6.
+1) Annotate the class with @Entity.
+2) Annotate the interface with @Dao.
+3) 
+- You can define tables for a Room database as annotated data classes
+- Each Room database must have one, and only one, DAO
+4)
+- @Update
+- @Insert
+- @Query
+5) Write instrumented tests.
